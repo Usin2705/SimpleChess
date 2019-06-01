@@ -2,7 +2,7 @@
 <b>C++ project 2018</b>  
 Metropolia UAS, 2018.  
 <p>
-*Turned out I spelt "chess" incorrectly (I realized it when I typed this document), but it too late to change now (even my sources file use "chess")
+*Turned out I spelt "chess" incorrectly (I realized it when I typed this document), but it too late to change now (even my sources file use "chest")
 
 Just a simple chess game without any computer player, chess special moves (Castling).
 
