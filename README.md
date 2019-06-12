@@ -11,11 +11,11 @@ With fake GUI so you have a feeling it have GUI (it doesn't).
 And save feature.
 
 
-<img src="https://github.com/Usin2705/SimpleChest/blob/master/Demo/gameplay.gif" width="480">
+<img src="https://github.com/Usin2705/SimpleChess/blob/master/Demo/gameplay.gif" width="480">
 
-<img src="https://github.com/Usin2705/SimpleChest/blob/master/Demo/chest01.png" width="480">
-<img src="https://github.com/Usin2705/SimpleChest/blob/master/Demo/chest02.png" width="480">
-<img src="https://github.com/Usin2705/SimpleChest/blob/master/Demo/save.gif" width="480">
+<img src="https://github.com/Usin2705/SimpleChess/blob/master/Demo/chest01.png" width="480">
+<img src="https://github.com/Usin2705/SimpleChess/blob/master/Demo/chest02.png" width="480">
+<img src="https://github.com/Usin2705/SimpleChess/blob/master/Demo/save.gif" width="480">
 
 # License
 
